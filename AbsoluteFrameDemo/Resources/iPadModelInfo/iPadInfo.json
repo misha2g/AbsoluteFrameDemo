@@ -1,0 +1,569 @@
+[
+   {
+      "code":"iPad1,1",
+      "info":{
+         "fullNmame":"iPad",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad2,1",
+      "info":{
+         "fullNmame":"iPad 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad2,2",
+      "info":{
+         "fullNmame":"iPad 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad2,3",
+      "info":{
+         "fullNmame":"iPad 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad2,4",
+      "info":{
+         "fullNmame":"iPad 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad2,5",
+      "info":{
+         "fullNmame":"iPad mini",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad2,6",
+      "info":{
+         "fullNmame":"iPad mini",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad2,7",
+      "info":{
+         "fullNmame":"iPad mini",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad3,1",
+      "info":{
+         "fullNmame":"iPad 3",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad3,2",
+      "info":{
+         "fullNmame":"iPad 3",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad3,3",
+      "info":{
+         "fullNmame":"iPad 3",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad3,4",
+      "info":{
+         "fullNmame":"iPad 4",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad3,5",
+      "info":{
+         "fullNmame":"iPad 4",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad3,6",
+      "info":{
+         "fullNmame":"iPad 4",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,1",
+      "info":{
+         "fullNmame":"iPad Air",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,2",
+      "info":{
+         "fullNmame":"iPad Air",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,3",
+      "info":{
+         "fullNmame":"iPad Air",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,4",
+      "info":{
+         "fullNmame":"iPad mini 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,5",
+      "info":{
+         "fullNmame":"iPad mini 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,6",
+      "info":{
+         "fullNmame":"iPad mini 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,7",
+      "info":{
+         "fullNmame":"iPad mini 3",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,8",
+      "info":{
+         "fullNmame":"iPad mini 3",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad4,9",
+      "info":{
+         "fullNmame":"iPad mini 3",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad5,1",
+      "info":{
+         "fullNmame":"iPad mini 4",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad5,2",
+      "info":{
+         "fullNmame":"iPad mini 4",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad5,3",
+      "info":{
+         "fullNmame":"iPad Air 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad5,4",
+      "info":{
+         "fullNmame":"iPad Air 2",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad6,3",
+      "info":{
+         "fullNmame":"iPad Pro (9.7-inch)",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad6,4",
+      "info":{
+         "fullNmame":"iPad Pro (9.7-inch)",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad6,7",
+      "info":{
+         "fullNmame":"iPad Pro (12.9-inch)",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad6,8",
+      "info":{
+         "fullNmame":"iPad Pro (12.9-inch)",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad6,11",
+      "info":{
+         "fullNmame":"iPad 5",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad6,12",
+      "info":{
+         "fullNmame":"iPad 5",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad7,1",
+      "info":{
+         "fullNmame":"iPad Pro 2 (12.9-inch)",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad7,2",
+      "info":{
+         "fullNmame":"iPad Pro 2 (12.9-inch)",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad7,3",
+      "info":{
+         "fullNmame":"iPad Pro (10.5-inch)",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad7,4",
+      "info":{
+         "fullNmame":"iPad Pro (10.5-inch)",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad7,5",
+      "info":{
+         "fullNmame":"iPad 6",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad7,6",
+      "info":{
+         "fullNmame":"iPad 6",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad7,11",
+      "info":{
+         "fullNmame":"iPad 7",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad7,12",
+      "info":{
+         "fullNmame":"iPad 7",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad8,1",
+      "info":{
+         "fullNmame":"iPad Pro 3 (11-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,2",
+      "info":{
+         "fullNmame":"iPad Pro 3 (11-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,3",
+      "info":{
+         "fullNmame":"iPad Pro 3 (11-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,4",
+      "info":{
+         "fullNmame":"iPad Pro 3 (11-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,5",
+      "info":{
+         "fullNmame":"iPad Pro 3 (12.9-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,6",
+      "info":{
+         "fullNmame":"iPad Pro 3 (12.9-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,7",
+      "info":{
+         "fullNmame":"iPad Pro 3 (12.9-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,8",
+      "info":{
+         "fullNmame":"iPad Pro 3 (12.9-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,9",
+      "info":{
+         "fullNmame":"iPad Pro 4 (11-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,10",
+      "info":{
+         "fullNmame":"iPad Pro 4 (11-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,11",
+      "info":{
+         "fullNmame":"iPad Pro 4 (12.9-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad8,12",
+      "info":{
+         "fullNmame":"iPad Pro 4 (12.9-inch)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad11,1",
+      "info":{
+         "fullNmame":"iPad mini 5",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad11,2",
+      "info":{
+         "fullNmame":"iPad mini 5",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad11,3",
+      "info":{
+         "fullNmame":"iPad Air 3",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad11,4",
+      "info":{
+         "fullNmame":"iPad Air 3",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad11,6",
+      "info":{
+         "fullNmame":"iPad 8",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad11,7",
+      "info":{
+         "fullNmame":"iPad 8",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad12,1",
+      "info":{
+         "fullNmame":"iPad 9",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad12,2",
+      "info":{
+         "fullNmame":"iPad 9",
+         "homeButton":true
+      }
+   },
+   {
+      "code":"iPad13,1",
+      "info":{
+         "fullNmame":"iPad Air 4",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,2",
+      "info":{
+         "fullNmame":"iPad Air 4",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,4",
+      "info":{
+         "fullNmame":"iPad Pro 11-inch (3rd generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,5",
+      "info":{
+         "fullNmame":"iPad Pro 11-inch (3rd generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,6",
+      "info":{
+         "fullNmame":"iPad Pro 11-inch (3rd generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,7",
+      "info":{
+         "fullNmame":"iPad Pro 11-inch (3rd generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,8",
+      "info":{
+         "fullNmame":"iPad Pro 12.9-inch (5th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,9",
+      "info":{
+         "fullNmame":"iPad Pro 12.9-inch (5th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,10",
+      "info":{
+         "fullNmame":"iPad Pro 12.9-inch (5th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,11",
+      "info":{
+         "fullNmame":"iPad Pro 12.9-inch (5th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,16",
+      "info":{
+         "fullNmame":"iPad Air 5",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,17",
+      "info":{
+         "fullNmame":"iPad Air 5",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,18",
+      "info":{
+         "fullNmame":"iPad (10th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad13,19",
+      "info":{
+         "fullNmame":"iPad (10th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad14,1",
+      "info":{
+         "fullNmame":"iPad mini 6",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad14,2",
+      "info":{
+         "fullNmame":"iPad mini 6",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad14,3",
+      "info":{
+         "fullNmame":"iPad Pro 11-inch (4th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad14,4",
+      "info":{
+         "fullNmame":"iPad Pro 11-inch (4th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad14,5",
+      "info":{
+         "fullNmame":"iPad Pro 12.9-inch (6th generation)",
+         "homeButton":false
+      }
+   },
+   {
+      "code":"iPad14,6",
+      "info":{
+         "fullNmame":"iPad Pro 12.9-inch (6th generation)",
+         "homeButton":false
+      }
+   }
+]

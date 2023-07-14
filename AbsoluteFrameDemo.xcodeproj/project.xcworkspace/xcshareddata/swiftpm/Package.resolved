@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "appabsoluteframe",
+      "kind" : "remoteSourceControl",
+      "location" : "https://misha2g@bitbucket.org/misha2g/appabsoluteframe.git",
+      "state" : {
+        "revision" : "20371672934b5b6e7b0a5eb357ac02516d51be94",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
