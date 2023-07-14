@@ -6,7 +6,7 @@ The Application subscribes to frame change and then using `AppAbsoluteFrame` cal
 ![AbsoluteFrameDemo screenshot](./screenshot.jpeg)
 
 ## AppAbsoluteFrame
-[AppAbsoluteFrame](https://misha2g@bitbucket.org/misha2g/appabsoluteframe.git). Documentation: read readme.md
+AppAbsoluteFrame sourse: [Bitbucket](https://misha2g@bitbucket.org/misha2g/appabsoluteframe.git), [GitHub](https://github.com/misha2g/AppAbsoluteFrame.git). Documentation: read readme.md
 
 ## License
 The AbsoluteFrameDemo is released under the [MIT License](https://opensource.org/license/mit/).
